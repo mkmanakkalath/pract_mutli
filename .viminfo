@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1626071858,,"wq"
+|2,0,1626072280,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -26,16 +26,20 @@
 
 # File marks:
 '0  1  0  ~/Jenkinsfile
-|4,48,1,0,1626071858,"~/Jenkinsfile"
+|4,48,1,0,1626072280,"~/Jenkinsfile"
+'1  1  0  ~/Jenkinsfile
+|4,49,1,0,1626071858,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1626072280,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1626071858,"~/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1626071855	0
+	*	1626072277	0
 	"	1	0
 	^	1	0
 	.	1	0
