@@ -1,7 +1,7 @@
 pipeline {
     agent any
 
-    stages {
+    stages { //comment
         stage('Build') {
             steps {
                 echo 'Building..'
